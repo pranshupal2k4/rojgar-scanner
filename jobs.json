@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "1776682555228",
+    "title": "CRPF",
+    "category": "latest-job",
+    "link": "#",
+    "badge": "New",
+    "status": "Active",
+    "board": "CRPF bharti",
+    "eligibility": "12th paass",
+    "ageLimit": "22",
+    "applicationFee": {
+      "general": "500",
+      "obc": "400",
+      "scst": "300",
+      "female": "0"
+    },
+    "importantDates": {
+      "applyStart": "20/04/2026",
+      "lastDate": "20/05/2026",
+      "examDate": "27/06/2026",
+      "admitCard": "20/06/2026"
+    },
+    "importantLinks": {
+      "applyOnline": "https://recruitment.crpf.gov.in/register",
+      "officialWebsite": "https://rect.crpf.gov.in/",
+      "notificationPdf": "https://rect.crpf.gov.in/Upload/Recruitment/Recruitment%20Notice%20104042026%20(hindi)-210.pdf",
+      "syllabusPdf": "http://sarkariresult.com.cm/wp-content/uploads/2026/04/CRPF-Constable-Tradesman-Syllabus-Exam-Pattern-2026.pdf",
+      "answerKey": "no",
+      "admitCard": "no",
+      "result": "no"
+    },
+    "banner": {
+      "image": "",
+      "link": ""
+    },
+    "howToApply": "Interested candidates who wish to apply for the CRPF post can submit their application online before 19 May 2026.\nUse the click here link provided below under important link section to apply directly.\nAlternatively, visit the official website of CRPF to complete the application process online.\nMake sure to complete the application before the deadline 19 May 2026.\nNote – छात्रो से ये अनुरोध किया जाता है की वो अपना फॉर्म भरने से पहले Official Notification को ध्यान से जरूर पढे उसके बाद ही अपना फॉर्म भरे । (Last Date, Age Limit, & Education Qualification)",
+    "fullDetails": "",
+    "createdAt": "2026-04-20T10:55:55.228Z"
+  }
+]
