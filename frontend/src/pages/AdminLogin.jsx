@@ -3,8 +3,8 @@ import { useNavigate } from 'react-router-dom';
 import '../styles/AdminLogin.css';
 
 const ADMIN_CREDENTIALS = {
-  email: 'admin@rojgar.com',
-  password: 'admin123'
+  email: 'pranshupal0000@gmail.com',
+  password: 'Rojgar@123'
 };
 
 export default function AdminLogin() {
@@ -74,7 +74,7 @@ export default function AdminLogin() {
         <div className="demo-credentials">
           <p><strong>Demo Credentials:</strong></p>
           <p>Email: admin@rojgar.com</p>
-          <p>Password: admin123</p>
+          <p>Password: kgi@knp </p>
         </div>
       </div>
     </div>
