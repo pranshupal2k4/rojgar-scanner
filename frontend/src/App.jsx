@@ -30,7 +30,7 @@ function TopInfoStrip() {
       </div>
 
       <div className="top-links">
-        <a href="https://whatsapp.com/channel/0029Vb75HDLLI8YdTeHcS50p">Whatsapp Channel</a>
+        <a href="https://whatsapp.com/channel/0029Vb7AfZo002T1v8lDLj2u">Whatsapp Channel</a>
         <span> | </span>
         <a href="https://www.youtube.com/@rojgar_scanner_2">YouTube Channel</a>
         <span> | </span>
@@ -328,7 +328,7 @@ export default function App() {
             <h4>Follow Us</h4>
             <ul>
               <li><a href="https://t.me/rojgarscanner2">Telegram</a></li>
-              <li><a href="https://whatsapp.com/channel/0029Vb75HDLLI8YdTeHcS50p">WhatsApp</a></li>
+              <li><a href="https://whatsapp.com/channel/0029Vb7AfZo002T1v8lDLj2u">WhatsApp</a></li>
               <li><a href="https://www.youtube.com/@rojgar_scanner_2">YouTube</a></li>
               <li><a href="https://www.facebook.com/profile.php?id=61589304091636">Facebook</a></li>
             </ul>
@@ -495,7 +495,7 @@ function FloatingButtons() {
   return (
     <div className="social-float">
       <a
-        href="https://whatsapp.com/channel/0029Vb75HDLLI8YdTeHcS50p"
+        href="https://whatsapp.com/channel/0029Vb7AfZo002T1v8lDLj2u"
         target="_blank"
         rel="noopener noreferrer"
         className="float-btn whatsapp"
