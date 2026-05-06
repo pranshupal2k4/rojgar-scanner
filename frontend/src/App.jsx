@@ -32,11 +32,11 @@ function TopInfoStrip() {
       <div className="top-links">
         <a href="https://whatsapp.com/channel/0029Vb75HDLLI8YdTeHcS50p">Whatsapp Channel</a>
         <span> | </span>
-        <a href="https://www.youtube.com/@Rojgar_Scanner">YouTube Channel</a>
+        <a href="https://www.youtube.com/@rojgar_scanner_2">YouTube Channel</a>
         <span> | </span>
-        <a href="https://www.facebook.com/share/1AQXjknSmi/">Facebook</a>
+        <a href="https://www.facebook.com/profile.php?id=61589304091636">Facebook</a>
         <span> | </span>
-        <a href="https://t.me/Rojgar_Scanner">Telegram Channel</a>
+        <a href="https://t.me/rojgarscanner2">Telegram Channel</a>
         <span> | </span>
       </div>
     </div>
@@ -327,11 +327,10 @@ export default function App() {
           <div className="footer-col">
             <h4>Follow Us</h4>
             <ul>
-              <li><a href="https://t.me/Rojgar_Scanner">Telegram</a></li>
+              <li><a href="https://t.me/rojgarscanner2">Telegram</a></li>
               <li><a href="https://whatsapp.com/channel/0029Vb75HDLLI8YdTeHcS50p">WhatsApp</a></li>
-              <li><a href="https://www.youtube.com/@Rojgar_Scanner">YouTube</a></li>
-              <li><a href="https://www.facebook.com/share/1AQXjknSmi/">Facebook</a></li>
-              <li><a href="https://www.youtube.com/@Rojgar_Scanner">Twitter(x)</a></li>
+              <li><a href="https://www.youtube.com/@rojgar_scanner_2">YouTube</a></li>
+              <li><a href="https://www.facebook.com/profile.php?id=61589304091636">Facebook</a></li>
             </ul>
           </div>
         </div>
@@ -434,7 +433,7 @@ export function BannerCards({ jobs = [] }) {
     <section className="top-banner">
       <div className="top-banner-head">
         <h1>Rojgar Scanner – RojgarScanner.in</h1>
-        <p>Trusted Portal Since 2025</p>
+        <p>Trusted Portal Since 2026</p>
       </div>
 
       <div className="top-banner-cards">
@@ -505,7 +504,7 @@ function FloatingButtons() {
       </a>
 
       <a
-        href="https://t.me/Rojgar_Scanner"
+        href="https://t.me/rojgarscanner2"
         target="_blank"
         rel="noopener noreferrer"
         className="float-btn telegram"
