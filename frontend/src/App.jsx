@@ -438,9 +438,9 @@ export function BannerCards({ jobs = [] }) {
 
       <div className="top-banner-cards">
         {jobs.slice(0, 8).map((job, i) => (
-          <Link
+          <a
             key={job._id}
-            to={`/job/${job._id}`}
+            href={`/job/${job._id}`}
             className={`top-card card-${(i % 8) + 1}`}
           >
             <span className="top-card-badge">
@@ -449,7 +449,7 @@ export function BannerCards({ jobs = [] }) {
             <div className="top-card-title">
               {job.title}
             </div>
-          </Link>
+          </a>
         ))}
       </div>
     </section>
@@ -472,18 +472,18 @@ export function CategoryColumn({
       <ul className="category-list">
         {jobs.slice(0, 20).map(job => (
           <li key={job._id}>
-            <Link to={`/job/${job._id}`}>
+            <a href={`/job/${job._id}`}>
               {job.title}
-            </Link>
+            </a>
           </li>
         ))}
       </ul>
 
       {viewMoreLink && jobs.length > 20 && (
         <div style={{ textAlign: "center", marginTop: 10 }}>
-          <Link to={viewMoreLink} className="view-more-btn">
+          <a href={viewMoreLink} className="view-more-btn">
             View More →
-          </Link>
+          </a>
         </div>
       )}
     </div>
